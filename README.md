@@ -11,3 +11,5 @@ Drag and drop the Chrome Extension to the Extensions page to install it.
 This extension was made using [WebDGap](https://mikethedj4.github.io/WebDGap/).
 
 Install Duolingo as a standalone application from the [Chrome Web Store](https://chrome.google.com/webstore/detail/duolingo/pdooakoifjbjkjhjgfhlknnildhbnncl).
+
+[![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0)](https://ko-fi.com/michaelsboost)
